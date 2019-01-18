@@ -2,6 +2,7 @@ body {
   text-align: center;
   color: red; 
 }
-h1{
-color: blue; 
+.Title {
+text-align: center;
+color: blue;
 }
